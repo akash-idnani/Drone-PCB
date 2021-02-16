@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for Drone
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -175,8 +175,267 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTGXJBKI
 
+[Document9]
+DocumentPath=Drone.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Drone.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=Drone.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Drone.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Release\BOM\Bill of Materials-Drone.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Release\Rev1\Bill of Materials\Bill of Materials-Drone.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Drone\Design Rule Check - Drone.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Release\NC Drill\Drone-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Release\Rev1\NC Drill Files\Drone-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Release\NC Drill\Drone-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Release\Rev1\NC Drill Files\Drone-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Release\NC Drill\Drone.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Release\Rev1\NC Drill Files\Drone.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Release\Gerber\Drone.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Release\Rev1\Gerber Files\Drone.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.G1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Release\Gerber\Drone.G1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Release\Rev1\Gerber Files\Drone.G1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Release\Gerber\Drone.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Release\Gerber\Drone.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Release\Gerber\Drone.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Release\Gerber\Drone.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Release\Gerber\Drone.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Release\Gerber\Drone.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Release\Gerber\Drone.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Release\Gerber\Drone.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Release\Gerber\Drone.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Release\Gerber\Drone.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Release\Rev1\Gerber Files\Drone.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Release\NC Drill\Drone.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Release\Rev1\NC Drill Files\Drone.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Release\Gerber\Drone.REP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Release\Rev1\Gerber Files\Drone.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Free Documents\Gerber\Drone.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Release\Gerber\Drone.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Release\Rev1\Gerber Files\Drone.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -188,6 +447,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Drone
 
 [OutputGroup1]
 Name=Netlist Outputs
